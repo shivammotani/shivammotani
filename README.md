@@ -16,10 +16,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio website" width="30px" src="https://www.svgrepo.com/show/292465/html-website.svg" />][website]
-[<img align="left" alt="shivam | Twitter" width="30px" src="https://www.svgrepo.com/show/157815/twitter.svg" />][twitter]
-[<img align="left" alt="shivam | LinkedIn" width="30px" src="https://www.svgrepo.com/show/70809/linkedin.svg" />][linkedin]
-[<img align="left" alt="shivam | Instagram" width="30px" src="https://www.svgrepo.com/show/111199/instagram.svg" />][instagram]
+[<img align="left" alt="portfolio website" width="25px" src="https://www.svgrepo.com/show/292465/html-website.svg" />][website]
+[<img align="left" alt="shivam | Twitter" width="25px" src="https://www.svgrepo.com/show/157815/twitter.svg" />][twitter]
+[<img align="left" alt="shivam | LinkedIn" width="25px" src="https://www.svgrepo.com/show/70809/linkedin.svg" />][linkedin]
+[<img align="left" alt="shivam | Instagram" width="25px" src="https://www.svgrepo.com/show/111199/instagram.svg" />][instagram]
 
 <br />
 
@@ -33,17 +33,13 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats
 
   <img align="left" alt="Shivam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shivammotani&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://shivammotani.github.io/my-profile/
 [twitter]: https://twitter.com/shivammotani/
