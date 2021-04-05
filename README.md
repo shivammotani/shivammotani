@@ -1,4 +1,4 @@
-### Hi there, I'm Shivam [shivammotani] [website] 👋
+### Hi there, I'm Shivam [shivammotani][website] 👋
 
 [![Website](https://img.shields.io/website?label=Shivam%20Motani&style=flat-square&up_message=Portfolio&url=https%3A%2F%2Fshivammotani.github.io%2Fmy-profile%2F)](https://shivammotani.github.io/my-profile/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shivammotani?color=1DA1F2&label=Follow%20%40shivammotani&logo=Twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=shivammotani)
@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-pi-black.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/shivam.motani)
+[![Spotify](https://novatoremz.vercel.app/api/spotify)](https://open.spotify.com/user/shivam.motani)
 
 ### Connect with me:
 
