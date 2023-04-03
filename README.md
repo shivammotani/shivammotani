@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatoremz.vercel.app/api/spotify)](https://open.spotify.com/user/shivam.motani)
+[![Spotify](https://novatorem-qd8d.vercel.app/api/spotify)](https://open.spotify.com/user/shivam.motani)
 
 ### Connect with me:
 
@@ -40,7 +40,8 @@
 
 ### GitHub Stats
 
-<img align="left" alt="Shivam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shivammotani&show_icons=true&hide_border=true" />
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammotani&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivammotani&langs_count=8&hide_progress=true&show_icons=true&theme=radical&hide_border=true)
 
 [website]: https://shivammotani.github.io/my-profile/
 [twitter]: https://twitter.com/shivammotani/
