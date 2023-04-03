@@ -3,12 +3,13 @@
 [![Website](https://img.shields.io/website?label=Shivam%20Motani&style=flat-square&up_message=Portfolio&url=https%3A%2F%2Fshivammotani.github.io%2Fmy-profile%2F)](https://shivammotani.github.io/my-profile/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shivammotani?color=1DA1F2&label=Follow%20%40shivammotani&logo=Twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=shivammotani)
 
-## I'm a Fresher, Learner, Developer!!
+## I'm a Thinker, Learner, Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to get my hands dirty on Azure platform
-- 🥅 2021 Goals: Get more Azure Certifications
-- ⚡ Fun fact: I love to read and play guitar
+- 🌱 Developer with 2 years of professional experience
+- 👯 Can talk about tech all day
+- 🥅 2023 Goals: Be proficeint in Backend development
+- 🍕 Eats bits and bytes in breakfast
+
 
 ### Spotify Playing 🎧
 
@@ -16,7 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio website" width="25px" src="https://www.svgrepo.com/show/292465/html-website.svg" />][website]
+[<img align="left" alt="portfolio website" width="25px" src="https://www.svgrepo.com/show/331785/website-generic.svg" />][website]
 [<img align="left" alt="shivam | Twitter" width="25px" src="https://www.svgrepo.com/show/157815/twitter.svg" />][twitter]
 [<img align="left" alt="shivam | LinkedIn" width="25px" src="https://www.svgrepo.com/show/70809/linkedin.svg" />][linkedin]
 [<img align="left" alt="shivam | Instagram" width="25px" src="https://www.svgrepo.com/show/111199/instagram.svg" />][instagram]
@@ -29,9 +30,16 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="BootStrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Hive - Hadoop" width="26px" src="https://www.techrepublic.com/wp-content/uploads/2014/02/hadoop.logo.tr.jpg" />
+<img align="left" alt="Snowflake" width="26px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ftaz3bneeq9qhgnllf2h" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
+<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" />
 
 <br />
 <br />
