@@ -17,32 +17,23 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio website" width="25px" src="https://www.svgrepo.com/show/331785/website-generic.svg" />][website]
-[<img align="left" alt="shivam | Twitter" width="25px" src="https://www.svgrepo.com/show/157815/twitter.svg" />][twitter]
-[<img align="left" alt="shivam | LinkedIn" width="25px" src="https://www.svgrepo.com/show/70809/linkedin.svg" />][linkedin]
-[<img align="left" alt="shivam | Instagram" width="25px" src="https://www.svgrepo.com/show/111199/instagram.svg" />][instagram]
+[<img align="left" alt="portfolio website" width="45px" src="https://www.svgrepo.com/show/331785/website-generic.svg" />][website]
+[<img align="left" alt="shivam | Twitter" width="45px" src="https://www.svgrepo.com/show/157815/twitter.svg" />][twitter]
+[<img align="left" alt="shivam | LinkedIn" width="45px" src="https://www.svgrepo.com/show/70809/linkedin.svg" />][linkedin]
+[<img align="left" alt="shivam | Instagram" width="45px" src="https://www.svgrepo.com/show/111199/instagram.svg" />][instagram]
 
-<br />
+<br>
+<br>
+
+
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="BootStrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Hive - Hadoop" width="26px" src="https://www.techrepublic.com/wp-content/uploads/2014/02/hadoop.logo.tr.jpg" />
-<img align="left" alt="Snowflake" width="26px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ftaz3bneeq9qhgnllf2h" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" />
-
-<br />
-<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,mysql,postgres,c,cpp,py,java,django,vscode,stackoverflow,regex,bots,azure&perline=19" />
+  </a>
+</p>
 
 ---
 
